@@ -1,0 +1,29 @@
+* {
+    font-family: 'Red Rose', cursive;
+}
+
+.card {
+    width: 25rem;
+    height: 35rem;
+}
+
+.card-red {
+    color: red;
+}
+
+.card-black {
+    color: black;
+}
+
+.the-number {
+    font-size: 15rem;
+}
+
+.symbol-t {
+    font-size: 5rem;
+}
+
+.symbol-b {
+    font-size: 5rem;
+    transform: rotate(180deg)
+}
