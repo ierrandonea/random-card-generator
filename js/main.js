@@ -16,7 +16,7 @@ buttonEx.addEventListener("click", () => {
         card.classList.add("card-black");
     };
 
-    console.log("New card shuffled", symbolShuffler(), numbersShuffler(), theSymbol);
+    console.log("New card shuffled");
 });
 
 
